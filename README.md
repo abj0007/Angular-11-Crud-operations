@@ -1,27 +1,19 @@
 # EmployeeManagement
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+This project was  was build in Angular Version- 11.2.11.
+It is a demonostrative application for CRUD Operations by consuming a rest API, which will use Observables and other features.
+For This purpose a inbuild Json-server data base has been used.
+Which can be run ny below command:-
 
-## Development server
+1. ng install json-server
+2. Json-server --watch db.json
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Running the Server:-
 
-## Code scaffolding
+ng server --open.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/16533326/119271918-58853680-bc21-11eb-975f-eb8063f9444e.png)
+![image](https://user-images.githubusercontent.com/16533326/119271953-781c5f00-bc21-11eb-8bc7-4f9c651e1daa.png)
+![image](https://user-images.githubusercontent.com/16533326/119271967-85d1e480-bc21-11eb-9439-d8ecc12caf48.png)
