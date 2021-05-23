@@ -1,9 +1,9 @@
 # EmployeeManagement
 
-This project was  was build in Angular Version- 11.2.11.
+This project is build in Angular Version- 11.2.11.
 It is a demonostrative application for CRUD Operations by consuming a rest API, which will use Observables and other features.
-For This purpose a inbuild Json-server data base has been used.
-Which can be run ny below command:-
+For This purpose a in-built Json-server data base has been used.
+Which can be run by the below command:-
 
 1. ng install json-server
 2. Json-server --watch db.json
